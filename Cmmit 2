@@ -1,0 +1,5 @@
+cin >> firstTemp;
+
+cout << "Enter secTemp"
+cin >> secTemp
+
