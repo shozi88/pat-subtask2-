@@ -1,0 +1,4 @@
+If ( secTemp <= firstTemp ) {
+cout << "Increase the fryer heat before taking third readinf ";
+
+else if ( secTemp <= firstTemp ) ;
