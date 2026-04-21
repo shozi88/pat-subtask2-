@@ -1,0 +1,4 @@
+cout << " Reduce heat before taking third reading " ;
+
+cout << " Enter thirdTemp "
+  cin >> firstTemp ;
