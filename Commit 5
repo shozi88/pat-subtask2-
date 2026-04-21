@@ -1,0 +1,5 @@
+if ( thirdTemp >= 180 ) {
+  cout << " You may start frying" ;
+
+  return 0; 
+  }
